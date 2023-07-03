@@ -1,5 +1,5 @@
 # Recovery_RZ
-Recovery RAR &amp; ZIP Damaged or Ransomware
+Recovery RAR &amp; ZIP Damaged or Ransomware (encryptor header)
 
 run cmd Recovery_RZ.exe "file rar zip your"
 
