@@ -8,5 +8,5 @@ Folder containing the file Recovery_RZ.exe
 type cmd in the address bar and enter Recovery_RZ.exe "path to rar file"
 for example Recovery_RZ.exe "C:\file.rar"
 
-Donate: https://www.Paypal.me/BSVPay
+Donate: https://www.Paypal.me/BSVPay <br>
 => To develop more tools
