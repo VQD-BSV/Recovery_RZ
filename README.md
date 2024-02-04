@@ -1,6 +1,9 @@
 # Recovery_RZ
 Recovery RAR &amp; ZIP Damaged or Ransomware (encryptor header)
 
+## Author
+JpegRecovery is developed by Vu Quang Dai <BSVRecovery.vn@gmail.com>
+
 ## Usage
 Run cmd Recovery_RZ.cmd "path file rar zip your" <br>
 Run ZFX.exe open file zip 
